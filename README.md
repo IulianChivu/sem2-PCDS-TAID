@@ -10,4 +10,5 @@ Scopul final al formularului creat de aplicația noastră este de a obține mai 
 Codul sursa se regăsește în folderul Source.
 
 face-expression-recognition-with-deep-learning.ipynb - reprezintă codul pentru antrenarea clasificatorului. 
+
 demo_camera_cv2.py - reprezintă codul pentru demonstrator.
