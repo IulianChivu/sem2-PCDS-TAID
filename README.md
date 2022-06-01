@@ -1,4 +1,4 @@
-# sem2-PCDS-
+# sem2-PCDS-TAID
 
 Produsul nostru presupune o nouă modalitate de a realiza rapoarte- survey-uri care au ca și scop reducerea rezultatelor bias. 
 
